@@ -22,7 +22,7 @@ import '~styles/index.css';
             multi: true,
             useValue: {
                 id: 'acme.dcdalarm.widget',
-                label: 'DCD Alarm Widget',
+                label: 'DCD Alarm Creation Widget',
                 description: 'A visual wayto simulate a fire alarm',
                 component: WidgetDemo,
                 configComponent: WidgetConfigDemo,

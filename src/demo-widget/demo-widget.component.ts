@@ -17,7 +17,7 @@ export class WidgetDemo {
 
         ) {}
       
-    public villas: string[] = ['14489852','17004166', '17004163', '17008950', '17005143', '17006049'];
+    public villas: string[] = ['17004166', '17004163', '17008950', '17005143', '17006049'];
 
     public alarms_sent: number = 0;
 
